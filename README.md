@@ -1,7 +1,8 @@
 #Esta es la documentacion
 
 
-![alt text](image.png)
+<img width="306" height="332" alt="image" src="https://github.com/user-attachments/assets/c04e9b6b-ae25-49b5-be50-fe0473ae3381" />
+
 
 
 
